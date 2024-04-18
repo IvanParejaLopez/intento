@@ -27,7 +27,7 @@ public class Date {
    * @return The day of the month (1-31).
    */
   public int getDay() {
-    return day;
+    return 0;
   }
 
   /**
@@ -36,7 +36,7 @@ public class Date {
    * @return The month of the year (1-12).
    */
   public int getMonth() {
-    return month;
+    return 0;
   }
 
   /**
@@ -45,7 +45,7 @@ public class Date {
    * @return The year (within the valid range of 1900 to 2050).
    */
   public int getYear() {
-    return year;
+    return 0;
   }
 
   /**
